@@ -329,8 +329,10 @@ body.pixel-plan::after {
   .pixel-plan .brand small { font-size: 7px; }
   .pixel-plan .primary-nav { top: 66px; right: 14px; }
   .pixel-plan .plan-hero { min-height: auto; padding: 128px 18px 78px; gap: 54px; }
+  .pixel-plan .plan-hero-copy { min-width: 0; max-width: 100%; }
+  .pixel-plan .hero-code { max-width: 100%; box-sizing: border-box; overflow-wrap: anywhere; }
   .pixel-plan .hero-code { margin-bottom: 20px; }
-  .pixel-plan .plan-hero-copy h1 { font-size: clamp(4rem,22vw,6rem); line-height: .82; }
+  .pixel-plan .plan-hero-copy h1 { font-size: clamp(4rem,22vw,6rem); line-height: .82; overflow-wrap: anywhere; }
   .pixel-plan .plan-hero-copy > p:not(.copy-feedback):not(.hero-code) { font-size: .95rem; }
   .pixel-plan .hero-actions { display: grid; max-width: none; }
   .pixel-plan .button { width: 100%; justify-content: center; }

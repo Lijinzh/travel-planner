@@ -26,7 +26,7 @@ Official water-authority material describes it as an important industrial relic 
 
 ### Old Guancheng and the Dongguan Memory area
 
-Good for street documentary, arcades and old / new contrasts. Follow current worksites and public boundaries rather than old route posts.
+Good for street documentary, arcades and old / new contrasts. Official material describes the first area as including Xicheng Tower Park, the west Shanzhou River section and the Zhongxing Road arcade street; in January 2026, Guancheng confirmed the opening of the second area on Daxi Road and the activation of the east river section. Follow current worksites and public boundaries rather than old route posts. If a training day leaves only a short free window, use the [old-town and light-cycling module](../activities/optional-walk-bike.md) instead of forcing a full old-city route.
 
 ### Nanshe Ming–Qing Village
 

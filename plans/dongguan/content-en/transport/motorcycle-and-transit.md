@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-**A motorcycle cannot be the default transport.** Dongguan introduced restricted areas and roads in 2007; later official responses continued to describe area- and time-based controls. In 2026 the city is running a year-long motorcycle / e-bike enforcement campaign, and Songshan Lake has publicised drone, video and road patrols.
+**A motorcycle cannot be the default entertainment on this 22–24 August course trip.** Dongguan introduced restricted areas and roads in 2007; later official responses continued to describe area- and time-based controls. In 2026 the city is running a year-long motorcycle / e-bike enforcement campaign, and Songshan Lake has publicised drone, video and road patrols. Fatigue, equalisation and attention after depth training also make riding a poor follow-on activity.
 
 Seeing motorcycles on the road does not mean a visitor can legally rent one and ride anywhere. An official case also records a motorcycle violating a prohibition sign on Binhaiwan Avenue.
 
@@ -16,6 +16,10 @@ Seeing motorcycles on the road does not mean a visitor can legally rent one and 
 - Dry weather, good visibility and no post-depth fatigue.
 
 If one condition fails, do not rent.
+
+For this trip, treat “I will ride after the course” as off by default. Without written route confirmation, valid vehicle documents and enough recovery time, use walking, ride-hailing or public transport instead.
+
+If what you want is the “bike plus landscape photographs” feeling, use a short bicycle ride on public Songshan Lake waterfront paths instead: a legitimate bicycle, light helmet and waterproof bag, with an 8–12 km out-and-back limit. This is not a default activity after open-water / depth training; cancel for thunder, standing water, strong wind or a lack of instructor approval. See the [optional module page](../activities/optional-walk-bike.md) for scheduling.
 
 ## Routes not to plan
 

@@ -1,39 +1,46 @@
-# Guangdong surf choice: Xichong for this trip
+# Surfing and nearby cities: future candidates after Dongguan
 
-> This decision is specific to the 16–22 August route that surfs before the Dongguan course. It does not claim Xichong is always Guangdong's best break.
+> **Updated 31 August 2026.** The Dongguan trip is complete. The user has not listed surfing among the confirmed results; Xichong and Shuangyue Bay remain standalone future candidates, and Beihai + Weizhou is not automatically a surfing plan.
 
-## Why Xichong fits
+## Bottom line
 
-1. **Cleaner transfer:** arrive through Shenzhen, stay in Dapeng, then move to Songshan Lake after the lesson rather than driving farther east to Huizhou.
-2. **Stronger official evidence:** Dapeng lists coastal surfing among Xichong activities, and Beach No. 4 hosted a national longboard event.
-3. **Works with one coastal night:** Shuangyue Bay is stronger as a two-day resort stay; Xichong fits the current week.
-4. **Useful cancellation alternatives:** Dapeng Fortress or Shenzhen photography can replace a cancelled lesson without breaking the Dongguan transfer.
+Dongguan is not a local ocean-surf base. The practical choices are Shenzhen Dapeng / Xichong and Huizhou Shuangyue Bay. Treat either as an extra night or a separate two-day trip, not as a spontaneous Songshan Lake activity.
+
+### Shenzhen Xichong: better before a Shenzhen-to-Dongguan transfer
+
+Dapeng's official scenic-area page lists coastal surfing at Xichong, alongside beach, stargazing and hiking. The Nan'ao subdistrict's 2026 work plan also refers to national longboard events and further surf-base development. It fits a route that reaches Shenzhen first, but it costs an extra coastal night.
+
+### Huizhou Shuangyue Bay: better as a separate two-day trip
+
+Shuangyue Bay has commercial beginner experiences and coach-led sessions with equipment and shower information easier to find through booking platforms. Instructor, marine conditions, insurance, refund and cancellation terms still need confirmation on the booking date. It is a separate coastal weekend, not a mid-course detour.
 
 ## Comparison
 
-| Place | Decision for this trip | Best use |
+| Place | Current decision | Best use |
 | --- | --- | --- |
-| Xichong, Shenzhen | **Selected** | Stay 16 August, beginner lesson morning 17 August, then Dongguan |
-| Shuangyue Bay, Huizhou | Save for another trip | A dedicated two-day coastal and surf stay |
-| Jinding Bay / Red Bay, Shanwei | Separate east-Guangdong plan | Longer transfer; current schools and conditions require their own research |
-| Xunliao Bay, Huizhou | General beach backup | Resort infrastructure, but no guarantee of beginner waves |
+| Shenzhen Xichong | Higher priority, but off the 22–24 base route | Add one Shenzhen night before Dongguan, or plan a separate coast-plus-course trip |
+| Huizhou Shuangyue Bay | Established beginner experience, longer transfer | Separate two-day coastal stay; do not pair with depth training |
+| Xunliao Bay / Shanwei and others | Future research candidates only | Do not chase a break from short-video recommendations |
 
-## Go / no-go conditions
+## Green lights for a lesson
 
-- Fixed meeting point, verifiable instructor, board and leash;
-- The instructor confirms beginner-suitable conditions, not merely “there are waves”;
-- No thunderstorm, typhoon, dangerous marine warning or beach closure;
-- Written inclusions for coaching, equipment, insurance, shower, photographs and cancellation;
-- Be honest about swimming ability and reject absolute-safety marketing.
+- The instructor confirms a beginner teaching area, not merely that “there are waves”;
+- The beach is open and there is no thunder, typhoon or dangerous marine warning;
+- Coaching, board, leash, rescue / insurance, shower and weather-cancellation terms are written down;
+- You state your swimming ability honestly and reject absolute-safety marketing;
+- You do not surf on a depth-training day or rush straight to the coast after the course.
 
-## Three final checks
+## Decision tree for this trip
 
-1. Evening of 15 August: Guangdong marine forecast and Shenzhen warnings;
-2. After check-in on 16 August: ask about swell, rip currents and the teaching zone;
-3. Morning of 17 August: enter only when the beach, radar and instructor are all green.
+1. **Course confirmed for 22–24:** execute the Shaoguan extension and cancel surfing;
+2. **Course moves or needs make-up work:** do not insert surfing; keep the complete course hours;
+3. **Shaoguan and Beihai are both dropped and you are willing to stay elsewhere:** compare Xichong and Shuangyue Bay after checking waves and cancellable accommodation;
+4. **Only half a day remains:** do not chase the coast; use indoor Dongguan activities or photography.
 
-## Why not Shuangyue Bay this time
+## Recheck before departure
 
-Its east coast has established beginner experiences and works well for a two-day holiday. It nevertheless adds a longer road transfer before Songshan Lake, while the current Huizhou outlook becomes wetter from the 18th. It is better saved for a separate coast-first weekend.
-
-If Xichong cancels, use Dapeng / Shenzhen photography or reach Songshan Lake early. Do not chase waves to an unmanaged wild beach.
+- [Official Xichong page](https://www.dpxq.gov.cn/ztzl/pyxsj/wzdp/zjd/content/post_11584514.html): activities and transport clues;
+- [Nan'ao 2026 work plan](https://www.dpxq.gov.cn/dpnabsc/gkmlpt/content/12/12656/post_12656891.html): surf-event and surf-base context;
+- [Guangdong marine forecast](https://g.hyyb.org/systems/HyybServices/City_guangdong/): waves, storm surge, red tide and marine warnings;
+- [LOOP Shuangyue Bay surf experience](https://www.klook.com/zh-CN/activity/46848-double-moon-bay-loop-surfing-lesson-hui-zhou/): commercial candidate only; price, rating and inventory are not current guarantees;
+- [Dapeng Peninsula traffic reservation](https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12759061.html): traffic note before driving or renting a car to Xichong.
