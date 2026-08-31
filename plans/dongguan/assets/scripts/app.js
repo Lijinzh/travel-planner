@@ -91,21 +91,21 @@ Plan: https://lijinzh.github.io/travel-planner/plans/hainan/en/`;
 
 const isEnglish = document.documentElement.lang === 'en';
 
-const dongguanDiscussionZh = `东莞自由潜旅行｜询价与确认清单
-1. 8 月 18 日能否开课，抖音看到的 3200 元是否最终总价？
-2. 课程体系、教练编号、保险、师生比，以及场馆、装备、证书和补课包含什么？
-3. 8 月 16 日长沙到深圳、西涌住宿与接驳怎样最顺？
-4. 拟骑摩托的具体道路是否得到东莞交警与租车方书面确认？
-5. 8 月 17 日西涌初学课的海况、保险与天气退改是什么？
+const dongguanDiscussionZh = `东莞自由潜之行｜实际成果摘要
+1. 8 天内完成 AIDA 二星、三星、四星考核并取得三项认证。
+2. 静态闭气 4 分 04 秒。
+3. 最大下潜深度 33.9 米，目前还没有摸底。
+4. Bestdive 湿衣已订购，国产脚蹼已购买。
+5. 下一步计划进行动态平潜训练（DYN）。
 
 计划网址：https://lijinzh.github.io/travel-planner/plans/dongguan/`;
 
-const dongguanDiscussionEn = `Dongguan Freediving Trip | Enquiry list
-1. Can the course start on 18 August, and is the ¥3,200 Douyin offer the final total?
-2. What system, instructor number, insurance, ratio, entry, equipment, certification and make-up sessions are included?
-3. Which 16 August Changsha–Shenzhen train, Xichong stay and transfer work best?
-4. Has the exact motorcycle route been confirmed in writing by traffic police and the rental provider?
-5. What are the 17 August Xichong beginner conditions, insurance and weather cancellation terms?
+const dongguanDiscussionEn = `Dongguan Freediving Trip | Actual results
+1. Completed AIDA 2-, 3- and 4-Star assessments and obtained all three certifications within eight days.
+2. Static breath-hold: 4:04.
+3. Maximum depth: 33.9 metres; the bottom was not reached yet.
+4. Bestdive wetsuit ordered; domestic-made fins bought.
+5. Next plan: dynamic apnea / DYN training.
 
 Plan: https://lijinzh.github.io/travel-planner/plans/dongguan/en/`;
 
@@ -116,8 +116,8 @@ document.querySelector('[data-copy-discussion]')?.addEventListener('click', asyn
       ? (isEnglish ? dongguanDiscussionEn : dongguanDiscussionZh)
       : (isEnglish ? discussionTextEn : discussionTextZh);
     await navigator.clipboard.writeText(copyText);
-    if (feedback) feedback.textContent = isEnglish ? 'Enquiry list copied.' : '询价清单已复制。';
+    if (feedback) feedback.textContent = isEnglish ? 'Report summary copied.' : '复盘摘要已复制。';
   } catch {
-    if (feedback) feedback.textContent = isEnglish ? 'Automatic copying is unavailable. Please copy the enquiry list manually.' : '浏览器没有允许自动复制，请手动复制询价清单。';
+    if (feedback) feedback.textContent = isEnglish ? 'Automatic copying is unavailable. Please copy the report summary manually.' : '浏览器没有允许自动复制，请手动复制复盘摘要。';
   }
 });

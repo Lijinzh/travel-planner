@@ -1,6 +1,10 @@
-# 21–27 August: Dongguan freediving certification + Shaoguan Danxia Mountain
+# Original seven-day route: Dongguan freediving + Shaoguan Danxia Mountain
 
-> **Route status: updated 21 August 2026.** The default execution version uses 21 August departure, Dongguan training from 22–24 August, a Shaoguan transfer on the 24th, Danxia Mountain on the 25th, Guangdong Grand Canyon on the 26th and return on the 27th. Daily water sessions and meeting points remain subject to the instructor. Beihai + Weizhou is conditional on ships, weather and a cancellable stay.
+> **Archive status: updated 31 August 2026.** This page keeps the pre-departure seven-day route draft; the actual Dongguan trip is complete and lasted **eight days**. The user has not supplied a day-by-day route, so the draft below is not presented as a record of what happened. Use the [actual trip report](../overview/trip-report.md) for certified results, metrics and equipment.
+
+## Pre-departure route draft (not an actual trip record)
+
+The D1–D7 sections below preserve the route decisions made before departure so they can be compared with the real trip later; train, stay, transfer and attraction details are not inferred from this draft.
 
 ## D1 | 21 August: Changsha → Humen → Songshan Lake
 

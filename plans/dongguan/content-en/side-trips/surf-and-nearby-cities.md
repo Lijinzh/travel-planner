@@ -1,6 +1,6 @@
-# Surfing and nearby cities: outside the 21–27 August route
+# Surfing and nearby cities: future candidates after Dongguan
 
-> **Updated 21 August 2026.** The current route is Dongguan freediving certification + Shaoguan Danxia Mountain + Guangdong Grand Canyon from 21–27 August. Surfing is outside this route; Xichong and Shuangyue Bay remain standalone future candidates. Beihai + Weizhou is a separate ship-dependent coastal branch, not a surfing plan.
+> **Updated 31 August 2026.** The Dongguan trip is complete. The user has not listed surfing among the confirmed results; Xichong and Shuangyue Bay remain standalone future candidates, and Beihai + Weizhou is not automatically a surfing plan.
 
 ## Bottom line
 

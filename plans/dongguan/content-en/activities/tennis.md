@@ -1,6 +1,6 @@
-# Tennis in Dongguan: a light 25 August match only for the Beihai branch
+# Dongguan tennis research: future casual-play candidates
 
-> **Updated 21 August 2026.** The default Shaoguan plan uses 25 August for Danxia Mountain and does not schedule tennis. Only if the Beihai branch is active, the 24th course is complete and recovery is normal should you keep a light **09:30–11:00 on 25 August** match near Songshan Lake, with the court fee split equally.
+> **Updated 31 August 2026.** The Dongguan trip is complete, but the user has not recorded whether tennis was played. This page keeps the researched venue leads for future casual play and does not mark them as activities completed this time; recheck access, price, vacancies, opening and racket-rental rules.
 
 ## Current target card
 
@@ -11,7 +11,7 @@
 | Format | Singles or doubles |
 | Level | State NTRP plus serving, receiving, scoring and rally ability |
 | Cost | Split court fee; ask separately about rackets |
-| Status | Venue confirmation and player matching pending |
+| Status | Future casual-play candidates; recheck required |
 
 ## Venue priority
 

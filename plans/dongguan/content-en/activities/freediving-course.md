@@ -1,51 +1,32 @@
-# Freediving certification and DiveHub execution checklist
+# Freediving certification report and next training
 
-> **Updated 21 August 2026.** The latest itinerary discussion treats the course as **booked for 22–24 August**, with freediving equipment supplied by the course provider. The certification system, instructor, meeting points and insurance still come from the booking order and instructor.
+> **Updated 31 August 2026.** This page is now an actual results report rather than a course execution checklist. The results are from the user's record; unprovided order fields, instructor details and daily route details are not inferred.
 
-## Current known status
+## Confirmed results
 
-- Arrive at Humen on 21 August and move to Songshan Lake; use 22–24 August for training, assessment or make-up work;
-- The course supplies freediving equipment, so long fins, wetsuit, weights and safety line are no longer listed as required large items;
-- Bring personal swimwear, towel, non-slip sandals, dry clothes, wet bags, water and identification;
-- DiveHub's 46 metres describe facility capacity, not a beginner target;
-- The page no longer assumes AIDA2; use the certification system on the order.
+- Completed the AIDA 2-Star, 3-Star and 4-Star assessments within eight days and obtained all three freediver certifications;
+- Static breath-hold: **4:04**;
+- Maximum depth: **33.9 metres**, with the bottom not reached yet.
 
-## 22–24 August working draft
+The 33.9-metre result is the maximum depth recorded on this trip, not a target for the next session. “The bottom not reached yet” is kept as reported; no bottom depth is inferred.
 
-| Date | Current draft | Must be confirmed by the instructor |
-| --- | --- | --- |
-| 22 Aug | Theory + confined water, with a draft example around 10:00–18:00 | Meeting point, final hours and confined-water plan |
-| 23 Aug | Open-water / depth work, with a draft example around 10:00–13:00 | Water type, depth, line, safety staff and afternoon recovery |
-| 24 Aug | Open-water / assessment, then packing and recovery | Assessment, make-up work, certificate timing and whether to add a night |
+## Equipment status
 
-These blocks help with hotel and meal planning; they are not a promise that a train can be caught. Delays, equalisation problems, make-up work, debriefing and weather may change the finish time.
+- Bestdive wetsuit: **ordered, not recorded as delivered**;
+- Domestic-made fins: **bought**;
+- Keep course / venue equipment separate from newly owned personal equipment in the trip archive.
 
-## Fields to obtain from the order / instructor
+## Next training direction
 
-1. Certification system and course level;
-2. Instructor name, qualification number and liability insurance;
-3. Exact meeting and release points for 22, 23 and 24 August;
-4. Full equipment list, including venue entry, photography and certification fees;
-5. Class size, depth ratio, safety staff and line configuration;
-6. Swim test, medical screening, equalisation and make-up rules;
-7. Certificate timing, photo / video delivery and rescheduling policy.
+The next plan is dynamic apnea / dynamic with fins (DYN) training. Add the date, distance, pool conditions, instructor / buddy and safety-cover arrangement, recovery and review after the session is completed; no performance target is assumed in advance.
 
-## Course-day safety line
+## Training safety line
 
-- Use the qualified instructor, buddy, safety staff and required line system every time;
-- Stop for failed equalisation, ear pain, dizziness, chest discomfort, congestion or unusual fatigue;
-- Do not hyperventilate or chase 46 metres or any depth the instructor has not approved;
-- No alcohol, long motorcycle ride or hard tennis after depth training;
-- If the course is not safely complete, add a night or return rather than compressing recovery for Danxia Mountain, Beihai or tennis.
+- Continue with a qualified instructor, buddy and safety cover; never practise breath-hold or freediving alone;
+- Stop for equalisation problems, ear pain, dizziness, chest discomfort, congestion or unusual fatigue;
+- Do not hyperventilate or treat 33.9 metres or the facility depth as a required target;
+- Avoid alcohol, long motorcycle rides and hard tennis after depth work so recovery is not displaced.
 
-## Light entry bag
+## Original course archive
 
-- Two swimsuits or swim trunks;
-- Quick-dry towel and non-slip sandals;
-- Dry underwear and one long-sleeve quick-dry top;
-- Two waterproof wet bags;
-- Water bottle;
-- Course order, identification, instructor contact and hotel location;
-- Personal medication or medical items required by the health form.
-
-Do not treat ordinary swimming earplugs as freediving equipment, and do not carry a motorcycle helmet without a confirmed legal rental.
+The booking's certification system, instructor, meeting points, insurance, equipment scope and make-up policy can still be added from the order. Those details complete the record but do not change the actual certifications and results recorded above.

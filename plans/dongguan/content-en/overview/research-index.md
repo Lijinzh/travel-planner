@@ -1,11 +1,12 @@
-# Dongguan research index
+# Dongguan research and trip-report index
 
-> **Current version: 21 August 2026.** The route is now 21–27 August: freediving certification on 22–24, a Shaoguan transfer on the 24th, Danxia Mountain on the 25th and Guangdong Grand Canyon on the 26th. Beihai + Weizhou is a ship-and-weather branch.
+> **Current version: 31 August 2026.** The Dongguan trip is complete and lasted eight days. Confirmed results are AIDA 2-, 3- and 4-Star certification, a 4:04 static breath-hold, a 33.9-metre maximum depth, and the Bestdive wetsuit / domestic-fins equipment status. The original route material is retained as an archive; DYN is next.
 
 ## Start here
 
 - [Summary and decisions](summary.md)
-- [21–27 August route and extension rules](../itinerary/itinerary-7-days.md)
+- [Actual results and next training](trip-report.md)
+- [Archived 21–27 August route and extension rules](../itinerary/itinerary-7-days.md)
 
 ## Freediving and transport
 
@@ -35,4 +36,4 @@
 - [Sources, dates and limitations](../sources/reviews-and-evidence.md)
 - [Image credits](../sources/image-credits.md)
 
-> The current recommendation is 21–27 August 2026: freediving in Songshan Lake first, then Shaoguan by default. Switch to Beihai only after both Weizhou ship legs are confirmed. Continue checking stays, rail, ships, tennis, weather and traffic controls.
+> The site now prioritises the completed results. Shaoguan, Beihai, tennis, surfing and motorcycles remain candidate / historical research and are not claims about this trip. Before DYN, reconfirm the instructor, buddy, safety cover, pool and recovery plan.

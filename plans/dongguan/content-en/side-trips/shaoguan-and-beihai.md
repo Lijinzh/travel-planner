@@ -1,6 +1,6 @@
 # Extension decision: Shaoguan by default, Beihai only if triggered
 
-> **Updated 21 August 2026.** Guilin, Yangshuo and Yingxi Peak Forest are outside this route: the first two have already been visited, while Yingxi repeats too much of the karst-peak and rural-cycling experience. The default extension is Shaoguan Danxia Mountain + Guangdong Grand Canyon; Beihai + Weizhou Island is conditional on ships and sea conditions.
+> **Updated 31 August 2026.** This page keeps the pre-departure Shaoguan / Beihai candidate plans. The Dongguan trip is complete, but the user has not provided a day-by-day route, so this page does not confirm that either extension happened. Recheck ships, weather, stays, transport and scenic-area status before reusing a branch.
 
 ## One-line decision
 

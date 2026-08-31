@@ -1,6 +1,12 @@
 # Sources, dates and limitations
 
-> Core sources checked through **21 August 2026**. The 21 August train, course booking, local equipment inclusion and the Shaoguan / Beihai extension decision come from the user's latest itinerary update and supplied research snapshot; recheck live opening, booking, price, train, ship, weather, wave and traffic information before departure.
+> Core sources checked through **31 August 2026**. The certification results, breath-hold, maximum depth and equipment status come directly from the user's completed-trip record; unsupported personal results are not expanded into public claims. Recheck live opening, booking, price, train, ship, weather, wave and traffic information before a future trip.
+
+## Actual trip results
+
+- User record: AIDA 2-, 3- and 4-Star assessments completed and all three certifications obtained within eight days; static breath-hold 4:04; maximum depth 33.9 metres, bottom not reached;
+- User record: Bestdive wetsuit ordered and domestic-made fins bought; the wetsuit is not described as delivered;
+- This page does not infer daily route details, venue details, certificate numbers, pool-bottom depth or whether an activity happened unless the user has stated it.
 
 ## Freediving
 
@@ -64,11 +70,11 @@ Dongguan government and agricultural material on Daojiao congee / dumplings and 
 - [Dongguan Tennis Center rule update](https://webzdg.sun0769.com/web/news/content/872420?share=1): reported free-session, booking-limit and low-cost rules from 1 August 2026.
 - [Dongguan Tennis Center booking reply](https://wz.sun0769.com/web/politics/index/595675): older official reply identifying the Binjiang Sports Park WeChat booking channel; current rules require a fresh check.
 
-## 21–27 August date boundary
+## Boundary of the original August route
 
-- The 21 August route basis is the user's latest itinerary update: depart at 15:00, arrive at Humen at 17:23, course on 22–24 August, default Shaoguan transfer on the 24th, Danxia Mountain on the 25th, Grand Canyon on the 26th and Changsha on the 27th; use the user's actual order for final fields.
-- Shaoguan rail, accommodation, car transfer, Beihai ships, daily training plan, tennis and return timing still need live confirmation; the old 16–22 August weather sequence and Yangshuo extension are no longer used for the current route.
-- If surfing is added, recheck Shenzhen / Huizhou marine conditions, thunder, beach opening, instructor, insurance and cancellation terms.
+- The pre-departure notes recorded a 21 August departure, 22–24 August course and Shaoguan / Beihai extension candidates; these are planning material, not proof of the actual eight-day route.
+- The user has confirmed the certifications and results but has not provided a day-by-day route, transfers, stays, tennis, surfing or motorcycle record; those fields remain unconfirmed.
+- If surfing is added in future, recheck Shenzhen / Huizhou marine conditions, thunder, beach opening, instructor, insurance and cancellation terms.
 
 ## Still unverified
 

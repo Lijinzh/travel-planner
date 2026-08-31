@@ -1,75 +1,50 @@
-# 02 Dongguan: 21–27 August freediving and Shaoguan extension
+# Dongguan trip report: eight days of freediving certification
 
-> **Updated 21 August 2026.** The latest itinerary discussion sets the departure at 15:00 from Changsha on 21 August, arrival at Humen at 17:23, and a freediving certification course in Songshan Lake from 22–24 August with course equipment supplied locally. The default extension is Shaoguan on the 24th, Danxia Mountain on the 25th, Guangdong Grand Canyon on the 26th and Changsha on the 27th. Guilin, Yangshuo and Yingxi Peak Forest are outside this route; Beihai + Weizhou Island is conditional on ships and sea conditions.
+> **Updated 31 August 2026.** This page is now a completed-trip report rather than a pre-departure plan. The results below come from the user's actual record; daily route details, venue details and order fields are not inferred where they were not provided.
 
-## Current route
+## At a glance
 
-This is no longer a “surf + freedive + motorcycle + sightseeing” Dongguan weekend. The route is now:
+- **Certifications:** completed the AIDA 2-Star, 3-Star and 4-Star assessments within eight days and obtained all three freediver certifications;
+- **Static:** a **4:04** breath-hold;
+- **Depth:** maximum descent of **33.9 metres**, with the bottom not reached yet;
+- **Equipment:** Bestdive wetsuit ordered; domestic-made fins bought;
+- **Next step:** dynamic apnea / DYN training.
 
-> **Changsha → Songshan Lake freediving certification → Shaoguan Danxia Mountain + Guangdong Grand Canyon → Changsha.**
+## Actual trip status
 
-If both Weizhou ship legs are confirmed before the 24th, there is no suspension notice, the island stay is cancellable and a return buffer remains, switch to the Beihai branch. Do not keep Yangshuo simply to fill the calendar or chase a long transfer after the course.
+The Dongguan trip is complete. Freediving certification was the core objective, and the result went beyond the original plan, which had only been framed around a single level. The 33.9-metre figure is the maximum depth recorded on this trip, not a safety target or a claim about a personal limit. “The bottom not reached yet” is kept as reported; no bottom depth is inferred.
 
-The course is the spine of the route. The certification system, instructor, daily meeting points, insurance and assessment rules still need to come from the booking order and instructor. The site no longer infers AIDA2 or a beginner target from the 46-metre pool.
+The earlier Shaoguan, Beihai, surfing, motorcycle and tennis material remains on the site as pre-departure research or candidate plans. It must not be read as proof that those activities happened on this trip. Add them to the archive only when the actual dates and details are available.
 
-## Default seven-day execution table
+## Certification and training record
 
-| Date | Main task | Status / boundary |
+| Item | Recorded result | Note |
 | --- | --- | --- |
-| 21 Aug | Depart Changsha at 15:00, arrive Humen at 17:23, ride-hail to Songshan Lake and check in | Train time follows the latest trip update; hotel and transfer details still need filling |
-| 22 Aug | Theory and confined-water work | No old-town walk, motorcycle or formal tennis; follow the instructor's plan |
-| 23 Aug | Open-water / depth training and an afternoon nap | Cancel waterfront activity for thunder or equalisation problems |
-| 24 Aug | Open-water training / assessment and recovery; move to Shaoguan only if ready | Do not force an attraction; assessment, make-up work, food and rest come first |
-| 25 Aug | Danxia Mountain Elder Peak line | Use one complete line; shorten for rain or fatigue |
-| 26 Aug | Guangdong Grand Canyon in Ruyuan | Book a car / ride; cancel the descent in heavy rain |
-| 27 Aug | Return from Shaoguan to Changsha | Sleep naturally first; use live 12306 availability |
+| AIDA 2-Star | Passed and certified | Completed within this eight-day trip |
+| AIDA 3-Star | Passed and certified | Completed within this eight-day trip |
+| AIDA 4-Star | Passed and certified | Completed within this eight-day trip |
+| Static breath-hold | 4:04 | User's record |
+| Maximum depth | 33.9 m | Bottom not reached |
+| Dynamic apnea / DYN | To be trained | Next plan |
 
-## How the four activities now fit
+## Equipment and next training
 
-### 1. Freediving: now in execution mode
+- Bestdive wetsuit: **ordered, not described as delivered**;
+- Domestic-made fins: **bought**;
+- Dynamic apnea / DYN: the next training direction. Add distance, date, pool conditions, instructor / buddy arrangement, recovery and safety review after the session is completed.
 
-The latest discussion treats the course as booked and local freediving equipment as included. Still fill these fields from the order or instructor: certification system, instructor name and number, meeting points for the 22nd–24th, daily water type, insurance, make-up policy and certificate timing. Do not pack long fins, wetsuit, weights or safety line as required large items; bring personal swimwear, towel, sandals and wet bags.
+## How to use the original planning material
 
-### 2. Tennis: keep it only as a light Beihai-branch option
+- [Actual results and next training](trip-report.md): factual baseline for this trip;
+- [Original route and extension rules](../itinerary/itinerary-7-days.md): keeps the pre-departure route decisions, without confirming details the user did not provide;
+- [Freediving course page](../activities/freediving-course.md): course framework and safety boundaries, updated for completion;
+- [Surfing and nearby cities](../side-trips/surf-and-nearby-cities.md): recheck marine conditions, instructors, insurance and opening status for a future standalone trip;
+- [Tennis research](../activities/tennis.md): future casual-play candidates, not a claim that tennis happened this time;
+- [Motorcycle and transport boundary](../transport/motorcycle-and-transit.md): retains legal constraints without claiming a ride took place.
 
-In the default Shaoguan plan, 25 August is Danxia Mountain and tennis is not scheduled. Only if the Beihai branch is activated, the course is complete and recovery is normal should you keep a light **09:30–11:00** match. Contact Orange C Tennis or an indoor venue first, and optionally try GloBox. Describe level with NTRP, serving and scoring rather than “intermediate / advanced”.
+## Training safety baseline
 
-### 3. Motorcycling: still off
-
-No legitimate rental and route have been secured, and the course creates recovery and thunderstorm constraints. The site keeps the legal conditions as an optional branch, but does not put a helmet, rental or route into the main plan. Multiple high-speed-rail and ride-hail transfers also make carrying a full helmet a poor trade-off.
-
-### 4. Surfing: outside this trip
-
-Xichong and Shuangyue Bay remain future standalone candidates. Beihai + Weizhou is a coastal-view branch, not a surfing plan; course recovery, transfers and weather already fill the trip.
-
-## Extension branches after 24 August
-
-- **Default Shaoguan:** complete the course, eat and recover on the 24th, move to Shaoguan, visit Danxia Mountain on the 25th, the Grand Canyon on the 26th and return on the 27th.
-- **Conditional Beihai:** activate only after confirming both Beihai–Weizhou ship legs, no suspension notice, cancellable island stay and a return buffer; do not rush to Beihai on the evening the course ends.
-- **Short version:** after completing training, assessment or make-up work on the 24th, rest and return from Humen; do not sacrifice freediving recovery to fill the calendar.
-
-## Weather modes
-
-| Weather | Execution |
-| --- | --- |
-| Sun / cloud | Run the Danxia / Grand Canyon plan; use the island only in the Beihai branch |
-| Light rain | Shorten mountain routes; use city rest, museums or indoor activities |
-| Thunderstorms | Cancel waterfront, motorcycles, canyon descent and island activity; enter a reliable building |
-| Heavy rain / course disruption | Stay at the venue or hotel, protect course safety and add a night if needed |
-
-## Pre-departure checklist
-
-1. Save the 21 August train order, 17:23 Humen arrival and hotel order;
-2. Ask the instructor for the 22–24 meeting points, equipment list and insurance details;
-3. If considering the Beihai branch, contact Songshan Lake tennis venues / GloBox; otherwise keep 25 August for Danxia Mountain;
-4. Check Humen–Shaoguan rail, Danxia Mountain and Ruyuan transfer; if considering Beihai, confirm both island ship legs before booking the island stay;
-5. Check current Dongguan, Shaoguan, Ruyuan or Beihai warnings and pack rainwear, waterproof bags and dry clothes;
-6. Use the [packing list](../packing/packing-list.md) and do not carry freediving bulk gear or a motorcycle helmet without a confirmed use.
-
-## Safety baseline
-
-- Never breath-hold or freedive alone;
-- Stop for failed equalisation, ear pain, congestion, unusual fatigue or a medical concern;
-- No alcohol, long motorcycle ride or hard tennis after depth training;
-- Do not enter closed or slippery Danxia / Grand Canyon routes in rain, and do not treat one-way ship tickets or non-refundable island packages as confirmed;
-- If the course cannot be completed safely, add a night or return rather than cutting theory, rescue or recovery.
+- Continue with a qualified instructor, buddy and safety cover; never practise breath-hold or freediving alone;
+- Stop for equalisation problems, ear pain, dizziness, chest discomfort, congestion or unusual fatigue;
+- Use depth results to record progress, not to force a deeper next dive; let the instructor and recovery state set the pace for DYN;
+- Avoid alcohol, long motorcycle rides and hard tennis after depth training so recovery is not displaced.
