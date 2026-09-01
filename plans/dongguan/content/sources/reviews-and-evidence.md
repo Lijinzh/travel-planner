@@ -1,6 +1,6 @@
 # 来源、查询日期与限制
 
-> 本页记录截至 **2026-08-31** 使用的核心来源。认证结果、闭气时间、最大深度和装备状态来自用户对已完成东莞之行的直接记录；没有外部证明的个人成绩不扩写为公共事实。动态营业、预约、价格、车次、船班、天气、海浪和交通限制仍必须在下一次出行前重查。
+> 本页记录截至 **2026-09-01** 使用的核心来源。认证结果、闭气时间、最大深度和装备状态来自用户对已完成东莞之行的直接记录；没有外部证明的个人成绩不扩写为公共事实。动态营业、预约、比赛名额、价格、车次、船班、天气、海浪和交通限制仍必须在下一次出行前重查。
 
 ## 本次实际结果
 
@@ -21,6 +21,15 @@
 - [Hong Kong Apnea DiveHub training](https://apnea.hk/divehub)：提前预约与费用构成示例；港币团费不可直接移植。
 - 抖音精选的 DiveHub 公开视频：用于确认 2026 年仍有松山湖新手潜水内容更新，不用于证明课程质量或价格。
 - 用户与潜馆的直接沟通：潜馆告知 2026 年 8 月 22 日起可以预约；这是本次日期调整的用户侧信息，不替代教练书面课表。
+
+## 自由潜比赛
+
+- [天津 ONE.GAME 赛事页](https://www.freedivingranking.com/events/6a81e68c430b0d9c6d154980)：只确认 2026-09-05—09-06、天津和 AIDA 泳池赛属性；没有公开报名表或分日项目时不写成正在报名；
+- [2026 环太平洋泳池赛简章](https://msocean.com.tw/archives/71353)：团队 / 菜鸟组、STA / DYNB 等项目、健康证明与名额线索；
+- [2026 大湾区第一站男子 STA](https://www.freedivingranking.com/events/69f077c582c3fa96dad96e88/ranking?gender=male&discipline=STA)与[2025 第一站男子 STA](https://www.freedivingranking.com/events/689dd1f4e61e8ec5075474f8/ranking?gender=male&discipline=STA)：仅用于估算 4:04 在历史参赛阵容中的位置；
+- [AIDA Hong Kong 2026 泳池赛](https://www.aida-hk.org/compinfo)：常见年龄、会员和一年内医生健康证明要求；
+- [澳门 2026 春季季度赛回顾](https://www.macaufreediving.org/aida-macau-freediving-pool-mini-competition-spring2026)：季度赛与年底计划线索，不等于秋季报名已经开放；
+- [体育总局水上中心 2026 潜水赛事计划](https://www.sport.gov.cn/sszx/n5207/c29318906/content.html)与[中潜联 2026 注册通知](https://www.sport.gov.cn/sszx/n5207/c29331194/content.html)：全国锦标赛 / 黄金联赛计划和运动员注册门槛。
 
 ## 摩托与交通法规
 

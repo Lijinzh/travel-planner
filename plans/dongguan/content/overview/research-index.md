@@ -1,6 +1,6 @@
 # 东莞计划研究与复盘索引
 
-> **当前版本：2026-08-31。** 东莞之行已经完成，共 8 天；本次已确认 AIDA 二星、三星、四星认证、静态闭气 4:04、最大下潜 33.9 米，以及 Bestdive 湿衣 / 国产脚蹼的装备状态。原路线资料保留为历史计划，动态平潜是下一步训练方向。
+> **当前版本：2026-09-01。** 东莞之行已经完成，共 8 天；本次已确认 AIDA 二星、三星、四星认证、静态闭气 4:04、最大下潜 33.9 米，以及 Bestdive 湿衣 / 国产脚蹼的装备状态。原路线资料保留为历史计划；动态平潜训练与首次泳池赛是下一阶段。
 
 ## 先读
 
@@ -11,6 +11,7 @@
 ## 自由潜与交通
 
 - [自由潜课程与 DiveHub 核验清单](../activities/freediving-course.md)
+- [自由潜比赛雷达：STA 4:04 可以参加什么](../activities/freediving-competitions.md)
 - [网球场与预约策略](../activities/tennis.md)
 - [莞城老城夜游与松山湖轻骑行](../activities/optional-walk-bike.md)
 - [摩托、轨道与跨镇移动](../transport/motorcycle-and-transit.md)

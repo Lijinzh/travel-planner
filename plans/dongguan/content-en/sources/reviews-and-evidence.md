@@ -1,6 +1,6 @@
 # Sources, dates and limitations
 
-> Core sources checked through **31 August 2026**. The certification results, breath-hold, maximum depth and equipment status come directly from the user's completed-trip record; unsupported personal results are not expanded into public claims. Recheck live opening, booking, price, train, ship, weather, wave and traffic information before a future trip.
+> Core sources checked through **1 September 2026**. The certification results, breath-hold, maximum depth and equipment status come directly from the user's completed-trip record; unsupported personal results are not expanded into public claims. Recheck live opening, booking, competition capacity, price, train, ship, weather, wave and traffic information before a future trip.
 
 ## Actual trip results
 
@@ -20,6 +20,15 @@
 - [Hong Kong Apnea DiveHub training](https://apnea.hk/divehub): advance-booking and cost-component example.
 - Public DiveHub Douyin videos: evidence of active Songshan Lake beginner content in 2026, not quality or price proof.
 - User's direct conversation with the venue: the venue said bookings can start on 22 August 2026; this is the user's date input, not a public timetable or paid booking.
+
+## Freediving competitions
+
+- [Tianjin ONE.GAME event page](https://www.freedivingranking.com/events/6a81e68c430b0d9c6d154980): confirms only 5–6 September 2026, Tianjin and AIDA pool-event status; without a public form or competition days it is not described as open registration;
+- [2026 Pacific Rim Cup notice](https://msocean.com.tw/archives/71353): team / rookie groups, STA / DYNB and other disciplines, medical and capacity leads;
+- [2026 Greater Bay Area first-stop men's STA](https://www.freedivingranking.com/events/69f077c582c3fa96dad96e88/ranking?gender=male&discipline=STA) and [2025 first-stop men's STA](https://www.freedivingranking.com/events/689dd1f4e61e8ec5075474f8/ranking?gender=male&discipline=STA): used only to estimate where 4:04 would sit in historical fields;
+- [AIDA Hong Kong 2026 pool competition](https://www.aida-hk.org/compinfo): common age, membership and physician-signed one-year medical requirements;
+- [Macau spring 2026 quarterly meet review](https://www.macaufreediving.org/aida-macau-freediving-pool-mini-competition-spring2026): quarterly and year-end planning lead, not proof that autumn registration is open;
+- [2026 national diving-event plan](https://www.sport.gov.cn/sszx/n5207/c29318906/content.html) and [2026 CSUPF registration notice](https://www.sport.gov.cn/sszx/n5207/c29331194/content.html): national championship / Golden League plan and athlete-registration barrier.
 
 ## Motorcycles
 

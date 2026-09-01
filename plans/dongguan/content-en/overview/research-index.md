@@ -1,6 +1,6 @@
 # Dongguan research and trip-report index
 
-> **Current version: 31 August 2026.** The Dongguan trip is complete and lasted eight days. Confirmed results are AIDA 2-, 3- and 4-Star certification, a 4:04 static breath-hold, a 33.9-metre maximum depth, and the Bestdive wetsuit / domestic-fins equipment status. The original route material is retained as an archive; DYN is next.
+> **Current version: 1 September 2026.** The Dongguan trip is complete and lasted eight days. Confirmed results are AIDA 2-, 3- and 4-Star certification, a 4:04 static breath-hold, a 33.9-metre maximum depth, and the Bestdive wetsuit / domestic-fins equipment status. The original route material is retained as an archive; DYN training and a first pool competition are next.
 
 ## Start here
 
@@ -11,6 +11,7 @@
 ## Freediving and transport
 
 - [Freediving course and DiveHub checks](../activities/freediving-course.md)
+- [Freediving competition radar: what a 4:04 STA can enter](../activities/freediving-competitions.md)
 - [Tennis courts and booking strategy](../activities/tennis.md)
 - [Old-town walk and light Songshan Lake cycling](../activities/optional-walk-bike.md)
 - [Motorcycles, rail and cross-town movement](../transport/motorcycle-and-transit.md)

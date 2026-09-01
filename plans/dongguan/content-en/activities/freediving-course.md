@@ -18,7 +18,7 @@ The 33.9-metre result is the maximum depth recorded on this trip, not a target f
 
 ## Next training direction
 
-The next plan is dynamic apnea / dynamic with fins (DYN) training. Add the date, distance, pool conditions, instructor / buddy and safety-cover arrangement, recovery and review after the session is completed; no performance target is assumed in advance.
+The next plan is dynamic apnea / dynamic with fins (DYN) training and preparation for a first formal pool competition. Add the date, distance, pool conditions, instructor / buddy and safety-cover arrangement, recovery and review after the session is completed; no performance target is assumed in advance. See the [freediving competition radar](freediving-competitions.md) for candidate events, entry barriers and the 4:04 ranking estimate.
 
 ## Training safety line
 
